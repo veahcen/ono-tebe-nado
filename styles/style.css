@@ -32,8 +32,8 @@
   padding: 92px 49px 92px 51px;
 }
 .header__menu {
-  align-self: center; 
   padding-left: 1px;
+  align-self: center; 
 }
 .header__links-list {
   display: flex;
