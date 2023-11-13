@@ -70,7 +70,7 @@
   position: relative;
   margin-bottom: 180px;
   padding: 165px 50px 50px;
-  background: url(/images/cover-min.jpg) center center/cover no-repeat;
+  background: url(../images/cover-min.jpg) center center/cover no-repeat;
 }
 .overlay {
   position: absolute;
@@ -178,13 +178,13 @@
   height: 100%; 
 }
 .card_type_film {
-  background: url(/images/card-lot-01-min.jpg) center center/cover no-repeat;
+  background: url(../images/card-lot-01-min.jpg) center center/cover no-repeat;
 }
 .card_type_book {
-  background: url(/images/card-lot-02-min.jpg) center center/cover no-repeat;
+  background: url(../images/card-lot-02-min.jpg) center center/cover no-repeat;
 }
 .card_type_picture {
-  background: url(/images/card-lot-03-min.jpg) center center/cover no-repeat;
+  background: url(../images/card-lot-03-min.jpg) center center/cover no-repeat;
 }
 .card__title {
   z-index: 1;
